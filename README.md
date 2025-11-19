@@ -1,79 +1,314 @@
-# Wallpapers Collection 🎨
+# Wallpaper Collection
 
-A curated collection of high-quality wallpapers organized by theme and style. Perfect for desktop backgrounds, phone wallpapers, and digital art inspiration.
+A curated collection of wallpapers organized by theme and style.
 
-## 📁 Directory Structure
+## Root Directory
 
-### Root Directory
-Contains a variety of standalone wallpapers including:
-- Nature landscapes and cherry blossom scenes
-- Space and astronomy themed images
-- Gruvbox color scheme wallpapers
-- Photography collections from various artists
-- Digital art and abstract designs
+![705204](./705204.jpg)
+![anime couple cherry blossom scenery](./anime-couple-cherry-blossom-scenery-4k-wallpaper-uhdpaper.com-877@1@n.jpg)
+![cherry blossom sunset scenery](./cherry-blossom-sunset-scenery-4k-wallpaper-uhdpaper.com-153@3@a.jpg)
+![click and learn photography](./click-and-learn-photography-3VBg9zmZUOY-unsplash.jpg)
+![dino reichmuth](./dino-reichmuth-kk3W5-0b6e0-unsplash.jpg)
+![gruvbox solarsys](./gruvb_solarsys.png)
+![gruvbox image 31](./gruvbox_image31.png)
+![gruvbox space](./gruvbox_spac.jpg)
+![hdimg](./hdimg.png)
+![jms unsplash](./jms-kFHz9Xh3PPU-unsplash.jpg)
+![johannes plenio](./johannes-plenio-hvrpOmuMrAI-unsplash.jpg)
+![joshua sortino](./joshua-sortino-xZqr8WtYEJ0-unsplash.jpg)
+![mark tegethoff](./mark-tegethoff-NMLv5HQZnK4-unsplash.jpg)
+![mountain scenery digital art](./mountain-scenery-digital-art-4k-wallpaper-uhdpaper.com-180@1@n.jpg)
+![pexels rpnickson](./pexels-rpnickson-2559941.jpg)
+![quino al](./quino-al-mBQIfKlvowM-unsplash.jpg)
+![samuel ferrara](./samuel-ferrara-npwjNTG_SQA-unsplash.jpg)
+![secluded grove pixel](./secluded-grove-pixel.png)
+![vincentiu solomon](./vincentiu-solomon-Z4wF0h47fy8-unsplash.jpg)
+![wall01](./wall01.jpg)
+![wallhaven d6y12l](./wallhaven-d6y12l.jpg)
+![wallhaven m3kggk](./wallhaven-m3kggk.jpg)
+![wallpaperflare 1](./wallpaperflare.com_wallpaper%20(1).jpg)
+![wallpaperflare 2](./wallpaperflare.com_wallpaper%20(2).jpg)
+![wallpaperflare](./wallpaperflare.com_wallpaper.jpg)
+![wallpaper](./wallpaper.jpg)
+![wil stewart](./wil-stewart-pHANr-CpbYM-unsplash.jpg)
+![345780](./Wallpapers/345780.jpg)
+![a beach with waves and rocks](./Wallpapers/a_beach_with_waves_and_rocks.jpg)
+![a bicycle leaning against a wall](./Wallpapers/a_bicycle_leaning_against_a_wall.jpg)
+![a bicycle parked on a street](./Wallpapers/a_bicycle_parked_on_a_street.jpg)
+![a bird flying over a beach](./Wallpapers/a_bird_flying_over_a_beach.jpg)
+![a black and white image of a monster](./Wallpapers/a_black_and_white_image_of_a_monster.png)
+![a black and white swirly pattern](./Wallpapers/a_black_and_white_swirly_pattern.jpg)
+![a blue and orange background](./Wallpapers/a_blue_and_orange_background.jpg)
+![a book and coffee on a table](./Wallpapers/a_book_and_coffee_on_a_table.png)
+![a bowl of colorful macaroons](./Wallpapers/a_bowl_of_colorful_macaroons.jpg)
+![a building with a red and white surface](./Wallpapers/a_building_with_a_red_and_white_surface.jpg)
+![a building with a roof and a body of water](./Wallpapers/a_building_with_a_roof_and_a_body_of_water.jpg)
+![a building with people sitting on a bench](./Wallpapers/a_building_with_people_sitting_on_a_bench.jpg)
+![a canal between buildings with boats](./Wallpapers/a_canal_between_buildings_with_boats.jpg)
+![a cartoon of a boy carrying a surfboard and a dog](./Wallpapers/a_cartoon_of_a_boy_carrying_a_surfboard_and_a_dog.jpg)
+![a cartoon of a boy sleeping on a tree branch](./Wallpapers/a_cartoon_of_a_boy_sleeping_on_a_tree_branch.jpg)
+![a cartoon of a machine](./Wallpapers/a_cartoon_of_a_machine.jpg)
+![a cartoon of a robot](./Wallpapers/a_cartoon_of_a_robot.jpg)
+![a cartoon of a whale flying over a road](./Wallpapers/a_cartoon_of_a_whale_flying_over_a_road.jpg)
+![a cartoon of a woman and a boy sleeping in a car](./Wallpapers/a_cartoon_of_a_woman_and_a_boy_sleeping_in_a_car.jpg)
+![a cassette tape with a chain and a chain](./Wallpapers/a_cassette_tape_with_a_chain_and_a_chain.png)
+![a close up of a fern](./Wallpapers/a_close_up_of_a_fern.jpg)
+![a close up of leaves 02](./Wallpapers/a_close_up_of_leaves_02.jpg)
+![a couple of planes flying over a wave](./Wallpapers/a_couple_of_planes_flying_over_a_wave.jpg)
+![a deck of a ferry](./Wallpapers/a_deck_of_a_ferry.jpg)
+![a deck with trees and a railing](./Wallpapers/a_deck_with_trees_and_a_railing.jpg)
+![adwaita l](./Wallpapers/adwaita-l.jpg)
+![aesthetic deer](./Wallpapers/aesthetic_deer.jpg)
+![a foggy landscape with trees and grass](./Wallpapers/a_foggy_landscape_with_trees_and_grass.jpg)
+![a forest of trees with fog](./Wallpapers/a_forest_of_trees_with_fog.jpg)
+![african light](./Wallpapers/african-light.jpg)
+![a girl holding a cup and standing on a ledge with a dog](./Wallpapers/a_girl_holding_a_cup_and_standing_on_a_ledge_with_a_dog.jpg)
+![a group of old computer equipment](./Wallpapers/a_group_of_old_computer_equipment.png)
+![a group of people running on a concrete wall next to a lighthouse](./Wallpapers/a_group_of_people_running_on_a_concrete_wall_next_to_a_lighthouse.jpg)
+![ai machine](./Wallpapers/ai-machine.png)
+![a](./Wallpapers/a.jpg)
+![a lighthouse with a large cloud of pink clouds](./Wallpapers/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg)
+![a man carrying a surfboard in the snow](./Wallpapers/a_man_carrying_a_surfboard_in_the_snow.jpg)
+![a man standing next to a car with a surfboard](./Wallpapers/a_man_standing_next_to_a_car_with_a_surfboard.jpg)
+![a music stand with a book on it](./Wallpapers/a_music_stand_with_a_book_on_it.jpg)
+![a person in a hat standing in a room with windows](./Wallpapers/a_person_in_a_hat_standing_in_a_room_with_windows.png)
+![a person on a beach](./Wallpapers/a_person_on_a_beach.jpg)
+![a person on a surfboard in the ocean](./Wallpapers/a_person_on_a_surfboard_in_the_ocean.jpg)
+![a person on a surfboard in the water with birds flying in the sky](./Wallpapers/a_person_on_a_surfboard_in_the_water_with_birds_flying_in_the_sky.jpg)
+![apex octane](./Wallpapers/apex_octane.jpg)
+![a pile of rocks](./Wallpapers/a_pile_of_rocks.jpg)
+![april](./Wallpapers/april.png)
+![a red and blue image of a woman's face](./Wallpapers/a_red_and_blue_image_of_a_woman's_face.png)
+![a river running through a valley](./Wallpapers/a_river_running_through_a_valley.png)
+![a sculpture of a man with a face on his head](./Wallpapers/a_sculpture_of_a_man_with_a_face_on_his_head.png)
+![a ship in the water](./Wallpapers/a_ship_in_the_water.jpg)
+![a ship on the water](./Wallpapers/a_ship_on_the_water.jpg)
+![a street with buildings and a street light](./Wallpapers/a_street_with_buildings_and_a_street_light.jpg)
+![a street with buildings and trees](./Wallpapers/a_street_with_buildings_and_trees.png)
+![a street with trees and buildings in the background](./Wallpapers/a_street_with_trees_and_buildings_in_the_background.jpg)
+![astronaut2](./Wallpapers/astronaut2.png)
+![astronaut jellyfish](./Wallpapers/astronaut_jellyfish.jpg)
+![astronaut](./Wallpapers/astronaut.png)
+![a tower on a small island](./Wallpapers/a_tower_on_a_small_island.jpg)
+![a tree in a snowy field](./Wallpapers/a_tree_in_a_snowy_field.jpg)
+![a typewriter on a table](./Wallpapers/a_typewriter_on_a_table.jpg)
+![a van on the road with a rainbow in the background](./Wallpapers/a_van_on_the_road_with_a_rainbow_in_the_background.jpg)
+![a video game controller connected to a cord](./Wallpapers/a_video_game_controller_connected_to_a_cord.jpg)
+![a whale shark with people on it](./Wallpapers/a_whale_shark_with_people_on_it.jpg)
+![a white building with a flag on top and palm trees](./Wallpapers/a_white_building_with_a_flag_on_top_and_palm_trees.jpg)
+![a white car parked on a brick road](./Wallpapers/a_white_car_parked_on_a_brick_road.png)
+![a white light pole with a jet trail in the sky](./Wallpapers/a_white_light_pole_with_a_jet_trail_in_the_sky.jpg)
+![a wooden stairs in a forest](./Wallpapers/a_wooden_stairs_in_a_forest.jpg)
+![boat abondoned](./Wallpapers/boat_abondoned.jpg)
+![bulbs](./Wallpapers/bulbs.jpg)
+![camera 2](./Wallpapers/camera-2.jpg)
+![car on mars](./Wallpapers/car_on_mars.jpg)
+![cowboy](./Wallpapers/cowboy.png)
+![deer and sunset](./Wallpapers/deer_and_sunset.jpg)
+![default](./Wallpapers/default.jpg)
+![desk gruvbox material](./Wallpapers/desk-gruvbox-material.jpg)
+![door](./Wallpapers/door.png)
+![escape velocity](./Wallpapers/escape_velocity.jpg)
+![evening sky](./Wallpapers/evening_sky.png)
+![explorer green day](./Wallpapers/explorer_green_day.jpg)
+![Fantasy Landscape3](./Wallpapers/Fantasy-Landscape3.png)
+![feh 270487 000001 a house with a porch and a porch](./Wallpapers/feh_270487_000001_a_house_with_a_porch_and_a_porch.jpg)
+![finalizer](./Wallpapers/finalizer.png)
+![forest 4](./Wallpapers/forest-4.jpg)
+![forest](./Wallpapers/forest-.jpg)
+![fscoiet 2](./Wallpapers/fscoiet_2.jpg)
+![future town](./Wallpapers/future_town.jpg)
+![gruvbox minimal space](./Wallpapers/gruvbox_minimal_space.png)
+![gruvbox tux](./Wallpapers/gruvbox_tux.png)
+![gruv commit](./Wallpapers/gruv-commit.png)
+![gruv wallhaven 4yj28l](./Wallpapers/gruv-wallhaven-4yj28l.png)
+![hanged man tree](./Wallpapers/hanged_man_tree.jpg)
+![japan tower pink](./Wallpapers/japan_tower_pink.jpg)
+![lady](./Wallpapers/lady.png)
+![lakeside sunset](./Wallpapers/lakeside_sunset.png)
+![lights](./Wallpapers/lights.jpg)
+![Mandalorian](./Wallpapers/Mandalorian.jpg)
+![marina bay sands](./Wallpapers/marina-bay-sands.png)
+![minimal squares](./Wallpapers/minimal_squares.png)
+![misty forest](./Wallpapers/misty_forest.jpg)
+![mountain dragon pink](./Wallpapers/mountain_dragon_pink.jpg)
+![mountain sunset](./Wallpapers/mountain_sunset.jpg)
+![my neighbor totoro sunflowers](./Wallpapers/my-neighbor-totoro-sunflowers.png)
+![mystical night in town](./Wallpapers/mystical-night-in-town.jpg)
+![nature](./Wallpapers/nature.jpg)
+![night moon](./Wallpapers/night_moon.png)
+![Nocturne of Steel and Glass](./Wallpapers/Nocturne-of-Steel-and-Glass.png)
+![nvim](./Wallpapers/nvim.png)
+![orange art](./Wallpapers/orange-art.jpg)
+![oxocarbon evangelion](./Wallpapers/oxocarbon-evangelion.jpg)
+![patterns](./Wallpapers/patterns.jpg)
+![PJbX0MG](./Wallpapers/PJbX0MG.png)
+![pony](./Wallpapers/pony.jpg)
+![railway](./Wallpapers/railway.jpg)
+![rain girl](./Wallpapers/rain_girl.jpg)
+![rebellious tower](./Wallpapers/rebellious_tower.png)
+![rick](./Wallpapers/rick.png)
+![room dark](./Wallpapers/room-dark.png)
+![rubiks cube](./Wallpapers/rubiks-cube.png)
+![sacrifice](./Wallpapers/sacrifice.jpg)
+![samurai](./Wallpapers/samurai.png)
+![Solitary Glow](./Wallpapers/Solitary-Glow.png)
+![Space Nebula](./Wallpapers/Space-Nebula.png)
+![stairs](./Wallpapers/stairs.jpg)
+![street](./Wallpapers/street.png)
+![sunset 10](./Wallpapers/sunset-10.jpg)
+![sunset drive forest](./Wallpapers/sunset-drive-forest.jpg)
+![sunset in thick forest](./Wallpapers/sunset-in-thick-forest.jpg)
+![sunset layers](./Wallpapers/sunset_layers.png)
+![sunset lookout](./Wallpapers/sunset-lookout.jpg)
+![sunset mountain beautiful](./Wallpapers/sunset-mountain-beautiful.jpg)
+![sunset scenery minimalist](./Wallpapers/sunset-scenery-minimalist.jpg)
+![tetris gruvbox brighter lighter](./Wallpapers/tetris_gruvbox_brighter_lighter.png)
+![the snap hunt camping](./Wallpapers/the-snap-hunt-camping.png)
+![the sphere](./Wallpapers/the-sphere.png)
+![this wallpaper is not available](./Wallpapers/this-wallpaper-is-not-available.png)
+![tree](./Wallpapers/tree.jpg)
+![tron ares](./Wallpapers/tron-ares.jpg)
+![typewriter](./Wallpapers/typewriter.jpg)
+![village](./Wallpapers/village.jpg)
+![vintage ascent](./Wallpapers/vintage-ascent.jpg)
+![void](./Wallpapers/void.jpg)
+![vulcan](./Wallpapers/vulcan.jpg)
+![wallhaven1](./Wallpapers/wallhaven1.jpg)
+![wallhaven 2e2xyx](./Wallpapers/wallhaven-2e2xyx.jpg)
+![wallhaven3](./Wallpapers/wallhaven3.jpg)
+![wallhaven4](./Wallpapers/wallhaven4.jpg)
+![watchtower mountains and forests](./Wallpapers/watchtower-mountains-and-forests.jpg)
 
-### Organized Collections
+## Anime
 
-#### 🎌 [`Wallpapers/`](./Wallpapers/)
-Main organized collection containing themed subdirectories and individual wallpapers
+![a cartoon of a girl with long hair wearing a black hat and jacket](./Wallpapers/anime/a_cartoon_of_a_girl_with_long_hair_wearing_a_black_hat_and_jacket.png)
+![a cartoon of a robot with a red background](./Wallpapers/anime/a_cartoon_of_a_robot_with_a_red_background.jpg)
+![a cartoon of a woman in a red dress with a large weapon](./Wallpapers/anime/a_cartoon_of_a_woman_in_a_red_dress_with_a_large_weapon.jpg)
+![a cartoon of a woman sitting on a red background](./Wallpapers/anime/a_cartoon_of_a_woman_sitting_on_a_red_background.jpg)
+![a cartoon of a woman standing in front of a building](./Wallpapers/anime/a_cartoon_of_a_woman_standing_in_front_of_a_building.jpg)
+![a cartoon of a woman standing next to a car](./Wallpapers/anime/a_cartoon_of_a_woman_standing_next_to_a_car.jpg)
+![a cartoon of a woman with her hands on her face](./Wallpapers/anime/a_cartoon_of_a_woman_with_her_hands_on_her_face.jpg)
+![a group of men standing on a beach](./Wallpapers/anime/a_group_of_men_standing_on_a_beach.jpg)
 
-#### 🌸 [`Wallpapers/anime/`](./Wallpapers/anime/)
-Anime-style illustrations and artwork
+## Calm
 
-#### 🌿 [`Wallpapers/calm/`](./Wallpapers/calm/)
-Peaceful and serene landscapes perfect for relaxation
-- [View Gallery](./Wallpapers/calm/README.md)
+![a beach with trees on the side](./Wallpapers/calm/a_beach_with_trees_on_the_side.jpg)
+![a bed with a view of trees outside](./Wallpapers/calm/a_bed_with_a_view_of_trees_outside.jpg)
+![a boat on the water](./Wallpapers/calm/a_boat_on_the_water.jpg)
+![a house on stilts on a lake](./Wallpapers/calm/a_house_on_stilts_on_a_lake.jpg)
+![a rocky landscape with trees and water in the background](./Wallpapers/calm/a_rocky_landscape_with_trees_and_water_in_the_background.jpg)
 
-#### 🎮 [`Wallpapers/digital/`](./Wallpapers/digital/)
-Digital art, concept art, and computer-generated imagery
-- [View Gallery](./Wallpapers/digital/README.md)
+## Digital
 
-#### ⚪ [`Wallpapers/minimal/`](./Wallpapers/minimal/)
-Clean, minimalist designs with simple aesthetics
+![2paggfqi38aa1](./Wallpapers/digital/2paggfqi38aa1.webp)
+![3x9iofas38aa1](./Wallpapers/digital/3x9iofas38aa1.webp)
+![4lge2mhk38aa1](./Wallpapers/digital/4lge2mhk38aa1.webp)
+![a car driving on a road at night](./Wallpapers/digital/a_car_driving_on_a_road_at_night.png)
+![a car in a field with trees and a fire](./Wallpapers/digital/a_car_in_a_field_with_trees_and_a_fire.png)
+![a car on a road with orange clouds in the sky](./Wallpapers/digital/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg)
+![a car on a road with purple clouds in the sky](./Wallpapers/digital/a_car_on_a_road_with_purple_clouds_in_the_sky.png)
+![a car on the road](./Wallpapers/digital/a_car_on_the_road.png)
+![a cartoon of a house on a cliff](./Wallpapers/digital/a_cartoon_of_a_house_on_a_cliff.png)
+![a cartoon of a woman sitting on a plane](./Wallpapers/digital/a_cartoon_of_a_woman_sitting_on_a_plane.png)
+![a city skyline with a plane in the sky](./Wallpapers/digital/a_city_skyline_with_a_plane_in_the_sky.png)
+![a colorful sky with clouds](./Wallpapers/digital/a_colorful_sky_with_clouds.png)
+![a couple of people standing on a mountain](./Wallpapers/digital/a_couple_of_people_standing_on_a_mountain.png)
+![a house in the snow](./Wallpapers/digital/a_house_in_the_snow.png)
+![a person sitting on a horse next to a lamp post](./Wallpapers/digital/a_person_sitting_on_a_horse_next_to_a_lamp_post.png)
+![a person walking on a road with power lines and wires](./Wallpapers/digital/a_person_walking_on_a_road_with_power_lines_and_wires.png)
+![a red and orange sky with clouds](./Wallpapers/digital/a_red_and_orange_sky_with_clouds.png)
+![a road with a car in the middle of the road](./Wallpapers/digital/a_road_with_a_car_in_the_middle_of_the_road.png)
+![a road with lightning bolts in the sky](./Wallpapers/digital/a_road_with_lightning_bolts_in_the_sky.png)
+![a sunset with clouds and trees](./Wallpapers/digital/a_sunset_with_clouds_and_trees.png)
+![a tower in a forest](./Wallpapers/digital/a_tower_in_a_forest.png)
+![a truck in the sunset](./Wallpapers/digital/a_truck_in_the_sunset.png)
+![a yellow moon in the sky](./Wallpapers/digital/a_yellow_moon_in_the_sky.png)
+![jrvrsi5r38aa1](./Wallpapers/digital/jrvrsi5r38aa1.webp)
+![ll5spy1k38aa1](./Wallpapers/digital/ll5spy1k38aa1.webp)
+![r5ay5mpm38aa1](./Wallpapers/digital/r5ay5mpm38aa1.webp)
+![rpkljnon38aa1](./Wallpapers/digital/rpkljnon38aa1.webp)
+![s61f586j38aa1](./Wallpapers/digital/s61f586j38aa1.webp)
+![t5v1ltio38aa1](./Wallpapers/digital/t5v1ltio38aa1.webp)
+![vouvrx5p38aa1](./Wallpapers/digital/vouvrx5p38aa1.webp)
+![x0zoaiwl38aa1](./Wallpapers/digital/x0zoaiwl38aa1.webp)
+![x249vynj38aa1](./Wallpapers/digital/x249vynj38aa1.webp)
 
-#### ⚫ [`Wallpapers/monochrome/`](./Wallpapers/monochrome/)
-Black and white photography and artwork
+## Minimal
 
-#### ❄️ [`Wallpapers/nord/`](./Wallpapers/nord/)
-Wallpapers featuring the Nord color palette
+![a black sky with white dots](./Wallpapers/minimal/a_black_sky_with_white_dots.jpg)
+![a blue mountains with a blue sky](./Wallpapers/minimal/a_blue_mountains_with_a_blue_sky.jpg)
+![a blue pen and a note](./Wallpapers/minimal/a_blue_pen_and_a_note.jpg)
+![a blue rectangular object with a black background](./Wallpapers/minimal/a_blue_rectangular_object_with_a_black_background.jpg)
+![a blue sky over a mountain range](./Wallpapers/minimal/a_blue_sky_over_a_mountain_range.png)
+![a cartoon of a island with a bridge and trees](./Wallpapers/minimal/a_cartoon_of_a_island_with_a_bridge_and_trees.jpg)
+![a landscape of mountains and a sunset 02](./Wallpapers/minimal/a_landscape_of_mountains_and_a_sunset_02.png)
+![a landscape of mountains and a sunset](./Wallpapers/minimal/a_landscape_of_mountains_and_a_sunset.png)
 
-#### 📽️ [`Wallpapers/aamis`](./Wallpapers/aamis)
-Themed collection (specific content directory)
+## Monochrome
 
-## 🖼️ Featured Highlights
+![a bird flying over a mountain](./Wallpapers/monochrome/a_bird_flying_over_a_mountain.jpg)
+![a black and white building with a fire escape](./Wallpapers/monochrome/a_black_and_white_building_with_a_fire_escape.jpg)
+![a city skyline seen through a window](./Wallpapers/monochrome/a_city_skyline_seen_through_a_window.jpg)
+![a foggy forest with trees](./Wallpapers/monochrome/a_foggy_forest_with_trees.jpg)
+![a hallway with lights on the ceiling](./Wallpapers/monochrome/a_hallway_with_lights_on_the_ceiling.png)
+![a microphone on a stand](./Wallpapers/monochrome/a_microphone_on_a_stand.jpg)
+![a moon in the sky above mountains](./Wallpapers/monochrome/a_moon_in_the_sky_above_mountains.jpg)
+![a mountain with clouds in the sky](./Wallpapers/monochrome/a_mountain_with_clouds_in_the_sky.jpg)
+![a person playing a guitar](./Wallpapers/monochrome/a_person_playing_a_guitar.png)
+![a street lights at night 01](./Wallpapers/monochrome/a_street_lights_at_night_01.jpg)
 
-- **Nature Photography**: Stunning landscapes, mountains, and cherry blossoms
-- **Space & Astronomy**: Nebulae, planets, and cosmic scenes  
-- **Gruvbox Theme**: Warm, retro color palette wallpapers
-- **Minimalist Designs**: Clean, simple, and elegant backgrounds
-- **Digital Art**: Fantasy landscapes, concept art, and illustrations
-- **Photography**: Professional photos from talented photographers
+## Nord
 
-## 📱 Usage
-
-These wallpapers are perfect for:
-- Desktop backgrounds (various resolutions)
-- Mobile wallpapers
-- Digital art inspiration
-- Theme coordination (especially Gruvbox users)
-- Screen savers and displays
-
-## 🎨 Color Themes
-
-- **Gruvbox**: Warm, vintage-inspired color scheme
-- **Nord**: Cool, arctic-inspired blues and whites
-- **Monochrome**: Classic black and white aesthetics
-- **Natural**: Earth tones and organic colors
-- **Vibrant**: Bright, energetic color palettes
-
-## 📸 Attribution
-
-Many wallpapers include work from talented photographers and artists from platforms like Unsplash. Individual credits can be found in filenames where applicable.
-
-## 🔄 Updates
-
-This collection is regularly updated with new high-quality wallpapers. Check back frequently for fresh content!
-
----
-
-*Organized and maintained for easy browsing and discovery of beautiful wallpapers across multiple categories and styles.*
+![a blue and grey background](./Wallpapers/nord/a_blue_and_grey_background.png)
+![a blue and grey logo](./Wallpapers/nord/a_blue_and_grey_logo.png)
+![a blue and white dots](./Wallpapers/nord/a_blue_and_white_dots.png)
+![a blue and white image of a mountain](./Wallpapers/nord/a_blue_and_white_image_of_a_mountain.png)
+![a blue sky over a mountain range](./Wallpapers/nord/a_blue_sky_over_a_mountain_range.png)
+![a building with signs and bicycles outside](./Wallpapers/nord/a_building_with_signs_and_bicycles_outside.jpg)
+![a car on a street](./Wallpapers/nord/a_car_on_a_street.png)
+![a cartoon characters on a food truck](./Wallpapers/nord/a_cartoon_characters_on_a_food_truck.png)
+![a cartoon of a bowl of ramen with two monsters fighting](./Wallpapers/nord/a_cartoon_of_a_bowl_of_ramen_with_two_monsters_fighting.png)
+![a cartoon of a girl holding a cat](./Wallpapers/nord/a_cartoon_of_a_girl_holding_a_cat.jpg)
+![a cartoon of a man's face](./Wallpapers/nord/a_cartoon_of_a_man's_face.png)
+![a cartoon of a spider man](./Wallpapers/nord/a_cartoon_of_a_spider_man.jpg)
+![a cartoon of a woman diving into a large wave](./Wallpapers/nord/a_cartoon_of_a_woman_diving_into_a_large_wave.png)
+![a cartoon of a woman on a balcony](./Wallpapers/nord/a_cartoon_of_a_woman_on_a_balcony.png)
+![a cartoon of a woman with her arms out](./Wallpapers/nord/a_cartoon_of_a_woman_with_her_arms_out.png)
+![a city skyline with a tall building and a red sky](./Wallpapers/nord/a_city_skyline_with_a_tall_building_and_a_red_sky.png)
+![a city skyline with a tall tower](./Wallpapers/nord/a_city_skyline_with_a_tall_tower.jpg)
+![a close up of a flower](./Wallpapers/nord/a_close_up_of_a_flower.jpg)
+![a clouds in the sky](./Wallpapers/nord/a_clouds_in_the_sky.png)
+![a graphic design with a bird and a banner](./Wallpapers/nord/a_graphic_design_with_a_bird_and_a_banner.png)
+![a graveyard with a castle and trees](./Wallpapers/nord/a_graveyard_with_a_castle_and_trees.png)
+![a group of geometric shapes](./Wallpapers/nord/a_group_of_geometric_shapes.png)
+![a group of people standing at a bar](./Wallpapers/nord/a_group_of_people_standing_at_a_bar.png)
+![a group of people walking on a hill](./Wallpapers/nord/a_group_of_people_walking_on_a_hill.png)
+![a group of pink flowers](./Wallpapers/nord/a_group_of_pink_flowers.png)
+![a group of tall pillars in a desert](./Wallpapers/nord/a_group_of_tall_pillars_in_a_desert.jpg)
+![a lake with mountains and trees](./Wallpapers/nord/a_lake_with_mountains_and_trees.jpg)
+![a logo of a group of people](./Wallpapers/nord/a_logo_of_a_group_of_people.png)
+![a logo of a person in a triangle](./Wallpapers/nord/a_logo_of_a_person_in_a_triangle.png)
+![a logo with white text](./Wallpapers/nord/a_logo_with_white_text.png)
+![a moon over mountains and clouds](./Wallpapers/nord/a_moon_over_mountains_and_clouds.png)
+![a mountain landscape with trees and a building on top](./Wallpapers/nord/a_mountain_landscape_with_trees_and_a_building_on_top.png)
+![an astronaut in space with a glowing planet](./Wallpapers/nord/an_astronaut_in_space_with_a_glowing_planet.png)
+![an astronaut in space with a satellite](./Wallpapers/nord/an_astronaut_in_space_with_a_satellite.png)
+![an astronaut playing a piano](./Wallpapers/nord/an_astronaut_playing_a_piano.png)
+![a painting of a building with smoke coming out of it](./Wallpapers/nord/a_painting_of_a_building_with_smoke_coming_out_of_it.png)
+![a red sports car parked in a garage](./Wallpapers/nord/a_red_sports_car_parked_in_a_garage.png)
+![a road with cars and buildings in the background](./Wallpapers/nord/a_road_with_cars_and_buildings_in_the_background.png)
+![a screenshot of a computer](./Wallpapers/nord/a_screenshot_of_a_computer.png)
+![a screenshot of a video game](./Wallpapers/nord/a_screenshot_of_a_video_game.png)
+![a silhouette of a person standing in a room with a window](./Wallpapers/nord/a_silhouette_of_a_person_standing_in_a_room_with_a_window.png)
+![a smoke coming out of a mountain](./Wallpapers/nord/a_smoke_coming_out_of_a_mountain.jpg)
+![a stone steps leading up to a forest](./Wallpapers/nord/a_stone_steps_leading_up_to_a_forest.jpg)
+![a street with buildings and signs](./Wallpapers/nord/a_street_with_buildings_and_signs.png)
+![a street with houses and power lines](./Wallpapers/nord/a_street_with_houses_and_power_lines.png)
+![a taxi parked outside a restaurant](./Wallpapers/nord/a_taxi_parked_outside_a_restaurant.png)
+![a tower in the forest](./Wallpapers/nord/a_tower_in_the_forest.png)
+![a video game character holding a sword](./Wallpapers/nord/a_video_game_character_holding_a_sword.jpg)
+![a video game graphics of a forest and a lake](./Wallpapers/nord/a_video_game_graphics_of_a_forest_and_a_lake.png)
+![a whale flying in the sky](./Wallpapers/nord/a_whale_flying_in_the_sky.png)
+![a windmill in the sky](./Wallpapers/nord/a_windmill_in_the_sky.png)
+![a woman sitting on a couch looking out a window](./Wallpapers/nord/a_woman_sitting_on_a_couch_looking_out_a_window.png)
