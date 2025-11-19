@@ -1,9 +1,5 @@
 # Wallpaper Collection
 
-A curated collection of wallpapers organized by theme and style.
-
-## Root Directory
-
 ![705204](./705204.jpg)
 ![anime couple cherry blossom scenery](./anime-couple-cherry-blossom-scenery-4k-wallpaper-uhdpaper.com-877@1@n.jpg)
 ![cherry blossom sunset scenery](./cherry-blossom-sunset-scenery-4k-wallpaper-uhdpaper.com-153@3@a.jpg)
