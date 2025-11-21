@@ -1,5 +1,8 @@
 # Wallpaper Collection
 
+A curated collection of high-quality wallpapers organized by theme and style. Browse through categories ranging from anime art to minimalist designs, calm landscapes to digital illustrations.
+
+![detective spiderman](./detective-spiderman.jpg)
 ![705204](./705204.jpg)
 ![anime couple cherry blossom scenery](./anime-couple-cherry-blossom-scenery-4k-wallpaper-uhdpaper.com-877@1@n.jpg)
 ![cherry blossom sunset scenery](./cherry-blossom-sunset-scenery-4k-wallpaper-uhdpaper.com-153@3@a.jpg)
@@ -176,6 +179,43 @@
 ![wallhaven4](./Wallpapers/wallhaven4.jpg)
 ![watchtower mountains and forests](./Wallpapers/watchtower-mountains-and-forests.jpg)
 
+## Logos
+
+![aisaka](./logos/aisaka.png)
+![arch](./logos/arch.png)
+![archlinux](./logos/archlinux.png)
+![ben](./logos/ben.png)
+![cards](./logos/cards.png)
+![cat](./logos/cat.png)
+![catppuccin logo](./logos/catppuccinLogo.png)
+![Convert to PNG project](./logos/Convert%20to%20PNG%20project.png)
+![deku](./logos/deku.png)
+![doom](./logos/doom.png)
+![doublek](./logos/doublek.png)
+![fire](./logos/fire.png)
+![firehd](./logos/firehd.png)
+![headphone](./logos/headphone.png)
+![hulk](./logos/hulk.png)
+![hyprland](./logos/hyprland.png)
+![itadori](./logos/itadori.png)
+![levi1](./logos/levi1.png)
+![levi2](./logos/levi2.png)
+![levi3](./logos/levi3.png)
+![loli](./logos/loli.png)
+![naruto](./logos/naruto.png)
+![nezuko](./logos/nezuko.png)
+![pochita](./logos/pochita.png)
+![profile](./logos/profile.png)
+![robot](./logos/robot.png)
+![ryuzaki](./logos/ryuzaki.png)
+![saitama](./logos/saitama.png)
+![saitama finger](./logos/saitama_finger.png)
+![sans](./logos/sans.png)
+![sekiro](./logos/sekiro.png)
+![skull](./logos/skull.png)
+![spiderman](./logos/spiderman.png)
+![tomioka](./logos/tomioka.png)
+
 ## Anime
 
 ![a cartoon of a girl with long hair wearing a black hat and jacket](./Wallpapers/anime/a_cartoon_of_a_girl_with_long_hair_wearing_a_black_hat_and_jacket.png)
@@ -194,6 +234,8 @@
 ![a boat on the water](./Wallpapers/calm/a_boat_on_the_water.jpg)
 ![a house on stilts on a lake](./Wallpapers/calm/a_house_on_stilts_on_a_lake.jpg)
 ![a rocky landscape with trees and water in the background](./Wallpapers/calm/a_rocky_landscape_with_trees_and_water_in_the_background.jpg)
+
+[View full calm gallery →](./Wallpapers/calm/README.md)
 
 ## Digital
 
@@ -229,6 +271,8 @@
 ![vouvrx5p38aa1](./Wallpapers/digital/vouvrx5p38aa1.webp)
 ![x0zoaiwl38aa1](./Wallpapers/digital/x0zoaiwl38aa1.webp)
 ![x249vynj38aa1](./Wallpapers/digital/x249vynj38aa1.webp)
+
+[View full digital gallery →](./Wallpapers/digital/README.md)
 
 ## Minimal
 
