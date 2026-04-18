@@ -10,7 +10,6 @@ A curated collection of wallpapers organized by theme and style.
 ![wallhaven_573x39.jpg](./dot/wallhaven_573x39.jpg)
 ![wallhaven_5gyqq1.jpg](./dot/wallhaven_5gyqq1.jpg)
 ![wallhaven_5gz5p7.jpg](./dot/wallhaven_5gz5p7.jpg)
-<!-- ![wallhaven_5wy9v1.jpg](./dot/wallhaven_5wy9v1.jpg) -->
 ![wallhaven_6dkr3q.jpg](./dot/wallhaven_6dkr3q.jpg)
 ![wallhaven_725769.jpg](./dot/wallhaven_725769.jpg)
 ![wallhaven_83dmw1.jpg](./dot/wallhaven_83dmw1.jpg)
@@ -20,7 +19,6 @@ A curated collection of wallpapers organized by theme and style.
 ![wallhaven_95yo88.jpg](./dot/wallhaven_95yo88.jpg)
 ![wallhaven_96vwd1.jpg](./dot/wallhaven_96vwd1.jpg)
 ![wallhaven_9mj8yw.jpg](./dot/wallhaven_9mj8yw.jpg)
-<!-- ![wallhaven_9my82x.jpg](./dot/wallhaven_9my82x.jpg) -->
 ![wallhaven_d6x88m.jpg](./dot/wallhaven_d6x88m.jpg)
 ![wallhaven_e7953k.jpg](./dot/wallhaven_e7953k.jpg)
 ![wallhaven_eyl2or.jpg](./dot/wallhaven_eyl2or.jpg)
@@ -59,6 +57,17 @@ A curated collection of wallpapers organized by theme and style.
 ![181552-katsuki_bakugo-izuku_midoriya-my_hero_academia-art-animated_cartoon-2560x1440.jpg](./dot/181552-katsuki_bakugo-izuku_midoriya-my_hero_academia-art-animated_cartoon-2560x1440.jpg)
 ![kitten-wallpaper-3840x2160-4k-whiskers-14573.jpg](./dot/kitten-wallpaper-3840x2160-4k-whiskers-14573.jpg)
 ![kitten-wallpaper-3840x2160-charming-playful-26379.jpg](./dot/kitten-wallpaper-3840x2160-charming-playful-26379.jpg) 
+![0355.jpg](./dot/0355.jpg)
+![0356.jpg](./dot/0356.jpg)
+![0663.jpg](./dot/0663.jpg)
+![0681.jpg](./dot/0681.jpg)
+![0718.jpg](./dot/0718.jpg)
+![0719.jpg](./dot/0719.jpg)
+![a_sculpture_of_a_man_with_a_face_on_his_head.png](./dot/a_sculpture_of_a_man_with_a_face_on_his_head.png)
+![uniunimikan-fire-girl.jpg](./dot/uniunimikan-fire-girl.jpg)
+![uniunimikan-flowers-girl.jpg](./dot/uniunimikan-flowers-girl.jpg)
+![uniunimikan-sea-girl.jpg](./dot/uniunimikan-sea-girl.jpg)
+![women-sky.jpg](./dot/women-sky.jpg)
 
 ## Bonus
 
