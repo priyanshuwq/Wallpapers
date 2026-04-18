@@ -6,22 +6,22 @@ A curated collection of wallpapers organized by theme and style.
 
 ![1-wallhaven_r7pg5j.jpg](./dot/1-wallhaven_r7pg5j.jpg)
 ![A-painting-wallpaper-3840x2160-vibe-atmosphere-271.jpg](./dot/A-painting-wallpaper-3840x2160-vibe-atmosphere-271.jpg)
-![166653-ghostbusters_afterlife-columbia_pictures-action-aircraft-helicopter_rotor-3840x2160.jpg](./dot/166653-ghostbusters_afterlife-columbia_pictures-action-aircraft-helicopter_rotor-3840x2160.jpg)
-![173217-eren_yeager-mikasa_ackerman-attack_on_titan-historia_reiss-poster-2560x1440.jpg](./dot/173217-eren_yeager-mikasa_ackerman-attack_on_titan-historia_reiss-poster-2560x1440.jpg)
-![179814-eren_yeager-mikasa_ackerman-armin_arlert-levi_ackerman-animated_cartoon-2560x1440.jpg](./dot/179814-eren_yeager-mikasa_ackerman-armin_arlert-levi_ackerman-animated_cartoon-2560x1440.jpg)
-![181552-katsuki_bakugo-izuku_midoriya-my_hero_academia-art-animated_cartoon-2560x1440.jpg](./dot/181552-katsuki_bakugo-izuku_midoriya-my_hero_academia-art-animated_cartoon-2560x1440.jpg)
+<!-- ![166653-ghostbusters_afterlife-columbia_pictures-action-aircraft-helicopter_rotor-3840x2160.jpg](./dot/166653-ghostbusters_afterlife-columbia_pictures-action-aircraft-helicopter_rotor-3840x2160.jpg) -->
+<!-- ![173217-eren_yeager-mikasa_ackerman-attack_on_titan-historia_reiss-poster-2560x1440.jpg](./dot/173217-eren_yeager-mikasa_ackerman-attack_on_titan-historia_reiss-poster-2560x1440.jpg) -->
+<!-- ![179814-eren_yeager-mikasa_ackerman-armin_arlert-levi_ackerman-animated_cartoon-2560x1440.jpg](./dot/179814-eren_yeager-mikasa_ackerman-armin_arlert-levi_ackerman-animated_cartoon-2560x1440.jpg) -->
+<!-- ![181552-katsuki_bakugo-izuku_midoriya-my_hero_academia-art-animated_cartoon-2560x1440.jpg](./dot/181552-katsuki_bakugo-izuku_midoriya-my_hero_academia-art-animated_cartoon-2560x1440.jpg) -->
 ![22985-tree-flower-wildflower-vegetation-field-7680x4320.jpg](./dot/22985-tree-flower-wildflower-vegetation-field-7680x4320.jpg)
 ![cozy-fall-wallpaper-3840x2160-autumn-landscape-autumn-scenery-28163.jpg](./dot/cozy-fall-wallpaper-3840x2160-autumn-landscape-autumn-scenery-28163.jpg)
 ![cozy-fall-wallpaper-3840x2160-autumn-landscapes-harvest-landscape-28166.jpg](./dot/cozy-fall-wallpaper-3840x2160-autumn-landscapes-harvest-landscape-28166.jpg)
 ![cozy-fall-wallpaper-3840x2160-crisp-air-autumn-landscape-28161.jpg](./dot/cozy-fall-wallpaper-3840x2160-crisp-air-autumn-landscape-28161.jpg)
 ![cozy-fall-wallpaper-3840x2160-peaceful-meadow-warm-tones-28162.jpg](./dot/cozy-fall-wallpaper-3840x2160-peaceful-meadow-warm-tones-28162.jpg)
-![kitten-wallpaper-3840x2160-4k-whiskers-14573.jpg](./dot/kitten-wallpaper-3840x2160-4k-whiskers-14573.jpg)
-![kitten-wallpaper-3840x2160-charming-playful-26379.jpg](./dot/kitten-wallpaper-3840x2160-charming-playful-26379.jpg)
+<!-- ![kitten-wallpaper-3840x2160-4k-whiskers-14573.jpg](./dot/kitten-wallpaper-3840x2160-4k-whiskers-14573.jpg)
+![kitten-wallpaper-3840x2160-charming-playful-26379.jpg](./dot/kitten-wallpaper-3840x2160-charming-playful-26379.jpg) -->
 ![wallhaven_2y978y.jpg](./dot/wallhaven_2y978y.jpg)
 ![wallhaven_573x39.jpg](./dot/wallhaven_573x39.jpg)
 ![wallhaven_5gyqq1.jpg](./dot/wallhaven_5gyqq1.jpg)
 ![wallhaven_5gz5p7.jpg](./dot/wallhaven_5gz5p7.jpg)
-![wallhaven_5wy9v1.jpg](./dot/wallhaven_5wy9v1.jpg)
+<!-- ![wallhaven_5wy9v1.jpg](./dot/wallhaven_5wy9v1.jpg) -->
 ![wallhaven_6dkr3q.jpg](./dot/wallhaven_6dkr3q.jpg)
 ![wallhaven_725769.jpg](./dot/wallhaven_725769.jpg)
 ![wallhaven_83dmw1.jpg](./dot/wallhaven_83dmw1.jpg)
@@ -31,7 +31,7 @@ A curated collection of wallpapers organized by theme and style.
 ![wallhaven_95yo88.jpg](./dot/wallhaven_95yo88.jpg)
 ![wallhaven_96vwd1.jpg](./dot/wallhaven_96vwd1.jpg)
 ![wallhaven_9mj8yw.jpg](./dot/wallhaven_9mj8yw.jpg)
-![wallhaven_9my82x.jpg](./dot/wallhaven_9my82x.jpg)
+<!-- ![wallhaven_9my82x.jpg](./dot/wallhaven_9my82x.jpg) -->
 ![wallhaven_d6x88m.jpg](./dot/wallhaven_d6x88m.jpg)
 ![wallhaven_e7953k.jpg](./dot/wallhaven_e7953k.jpg)
 ![wallhaven_eyl2or.jpg](./dot/wallhaven_eyl2or.jpg)
